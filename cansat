@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KL2WVM5');
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="CanSat Team representing George Watson's College in the 2019 UK competition" />
+    <meta name="keywords" content="cansat, gwc, esa, electronics, science, technology, physics, engineering, teamgantt, tecbridge circuits, yostar-pcb" />
+    <meta name="author" content="Abhijith Ganesan" />
+    <meta name="web_author" content="GWC CanSat" />
+    <meta name="contact" content="cansatgwc@gmail.com" />
+    <meta name="copyright" content="GWC CanSat" />
+    <meta name="robots" content="index, follow" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="geo.position" content="55.9306; 3.2180" />
+    <meta name="geo.placename" content="George Watson's College" />
+    <meta name="geo.region" content="GB" />
+    <meta name="google-site-verification" content="mWN6MoM-RBTzJ_NJGwbV4atladm9_4Obs2l0HMqo21k" />
+    <meta name="msvalidate.01" content="BE4D68D0575E6A2EDF32DDCE4B366843" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://gwccansat.com" />
+    <meta property="og:title" content="GWC CanSat" />
+    <meta property="og:description" content="CanSat Team representing George Watson's College in the 2019 UK competition." />
+    <meta property="og:image" content="https://gwccansat.com/images/backgroundWithTitle.png" />
+    <meta property="og:locale" content="en_GB" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:url" content="https://gwccansat.com" />
+    <meta name="twitter:title" content="GWC CanSat" />
+    <meta name="twitter:description" content="CanSat Team representing George Watson's College in the 2019 UK competition." />
+    <meta name="twitter:image" content="https://gwccansat.com/images/backgroundWithTitle.png" />
+    <meta name="twitter:site" content="@gwccansat" />
+    <meta name="twitter:creator" content="@AbhijithGanesan" />
+    <title>GWC CanSat - Our CanSat</title>
+    <link href="https://fonts.googleapis.com/css?family=Exo+2%7COpen+Sans:300" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="./css/styles.css" rel="stylesheet" type="text/css">
+    <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="./images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="./images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="./images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="./images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="./images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="./images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="./images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="./images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png">
+    <link rel="manifest" href="./images/manifest.json">
+    <meta name="msapplication-TileColor" content="#000000" />
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#000000" />
+    <script src="./scripts/progressBar.js"></script>
+    <script src="./scripts/respTopnav.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129366713-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-129366713-1');
+    </script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-3663488258824299",
+        enable_page_level_ads: true
+      });
+    </script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL2WVM5"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="container">
+    <header>
+        <a href="./index">
+            <h4 class="logo">GWC CANSAT</h4>
+        </a>
+        <a href="javascript:void(0);" class="menuIcon" onclick="respTopnav()">
+            <i class="fa fa-bars"></i>
+        </a>
+        <nav class="respNav" id="topNav">
+          <ul>
+            <li><a href="./team">TEAM</a></li>
+            <li><a href="./cansat">OUR CANSAT</a></li>
+            <li><a href="./blog">BLOG</a></li>
+            <li><a href="./sponsors">SPONSORS</a></li>
+            <li><a href="./contact">CONTACT</a></li>
+          </ul>
+        </nav>
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>  
+    </header>
+    <section class="major" id="main">
+        <h2 class="main_header">GWC <span class="bold">CANSAT</span></h2>
+        <p class="tagline">CanSat Team representing George Watson's College in the 2019 UK competition</p>
+    </section>
+    <section class="about" id="about">
+        <h2 class="text_heading">OUR CANSAT</h2>
+        <p class="text_column">This page provides details about our objectives and the design of our CanSat.</p>
+    </section>
+    <div class="gallery">
+        <div class="thumbnail thumbnail-center">
+            <h1 class="stats">3D Model</h1>
+            <h4>
+                <div class="sketchfab-embed-wrapper">
+                    <iframe width="800" height="450" src="https://sketchfab.com/models/c7140910dc39454b9e3ee281cfaaa223/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                </div>
+            </h4>
+            <p>The above model shows the internals of the CanSat.</p>
+        </div>
+    </div>
+    <footer>
+        <article class="footer_column">
+            <h3>PRIMARY MISSION</h3>
+            <img src="./images/bme680.jpg" alt="BME680" width="400" height="300" class="cards"/>
+            <p>The primary mission proposes the measuring of both air pressure and air temperature. The chosen sensors will also have the capabilities of measuring air humidity and VOC (volatile organic compound) gas.  This allows us to calculate the altitude while in the air using the pressure and temperature.</p>
+        </article>
+        <article class="footer_column">
+            <h3>SECONDARY MISSION</h3>
+            <img src="./images/9-dof.jpg" alt="9-DOF" width="400" height="300" class="cards"/>
+            <p>The aim of our secondary mission this year is to display the 3-axis orientation of the CanSat as it descends. By utilising the accelerometer, gyroscope and magnetometer capabilities of the 9-DOF sensor, the team will be able to create a frequently updated digital display of a 3D model of the CanSat showing it’s orientation as it descends towards the ground. This will allow us to determine how the CanSat will land and, in later designs, use this information to alter the way in which the CanSat is landing for optimal landing conditions. Potentially (depending on mass requirements), we may also attach a camera to the base of the CanSat to show the elevations in the terrain below, which will determine whether these conditions are suitable for a controlled landing.</p>
+        </article>
+    </footer>
+    <section class="footer_banner" id="contact">
+        <h2 class="hidden">42</h2>
+        <p class="footer_header">FOR THE LATEST NEWS &amp; UPDATES</p>
+        <div class="social">
+            <a href="https://www.facebook.com/cansatgwc/" target="_blank"><img src="./images/facebook.png" alt="Facebook" width="40" height="40"/></a>
+            <a href="https://twitter.com/gwccansat" target="_blank"><img src="./images/twitter.png" alt="Twitter" width="40" height="40"/></a>
+            <a href="https://www.instagram.com/gwccansat/" target="_blank"><img src="./images/instagram.png" alt="Instagram" width="40" height="40"/></a>
+            <a href="https://www.youtube.com/channel/UCJYG0YpnBs1NhTHFYHj0Hdg" target="_blank"><img src="./images/youtube.png" alt="YouTube" width="40" height="40"/></a>
+        </div>
+    </section>
+    <div class="copyright">&copy;2018-2019 &hyphen; <strong>GWC CanSat</strong></div>
+</div>
+</body>
+</html>

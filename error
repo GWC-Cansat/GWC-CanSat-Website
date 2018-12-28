@@ -78,8 +78,6 @@
     <meta name="theme-color" content="#000000" />
     <script src="./scripts/progressBar.js"></script>
     <script src="./scripts/respTopnav.js"></script>
-    <script src="./scripts/start.js"></script>
-    <script src="./scripts/competition.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129366713-1"></script>
     <script>

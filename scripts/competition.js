@@ -1,4 +1,4 @@
-var countDownDate = new Date("Mar 11, 2019 10:00:00").getTime();
+var countDownDate = new Date("Mar 11, 2019 11:00:00").getTime();
 
 var x = setInterval(function() {
     var now = new Date().getTime();
@@ -13,6 +13,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("competition").innerHTML = "The competition is currently under way!";
+      document.getElementById("competition").innerHTML = "The regional competition is currently under way!";
     }
 }, 1000);

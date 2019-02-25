@@ -139,17 +139,12 @@
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Abhijith</h1>
             <h4>Co-leader, Software, Outreach</h4>
-            <p>Created the website and edits the videos</p>
-        </div>
-        <div class="thumbnail thumbnail-center">
-            <h1 class="stats">Kristy</h1>
-            <h4>Secondary Mission Coordinator, Outreach</h4>
-            <p>Solved calculations for the parachute and creates challenges for outreach at schools</p>
+            <p>Created the website manages outreach, and edits the videos</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Alexander</h1>
             <h4>Electrical</h4>
-            <p>Created the PCB and wiring diagrams for the CanSat</p>
+            <p>Created the PCB and wiring diagrams for the CanSat and assembled the CanSat</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Neil</h1>
@@ -164,7 +159,7 @@
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Nikolai</h1>
             <h4>Electrical, Mechanical</h4>
-            <p>Solved calculations for the parachute and sensors and positioning the transceiver for maximum performance</p>
+            <p>Solved calculations for the parachute, sensors and positioning the transceiver for maximum performance</p>
         </div>
     </div>
     <section class="footer_banner" id="contact">

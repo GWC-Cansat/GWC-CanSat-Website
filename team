@@ -134,17 +134,17 @@
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Harold</h1>
             <h4>Leader, Secondary Mission Coordinator, Mechanical, Outreach</h4>
-            <p>Writes the reports and made the parachute</p>
+            <p>Writes the reports, manages finance and made the parachute</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Abhijith</h1>
             <h4>Co-leader, Software, Outreach</h4>
-            <p>Created the website, manages outreach, and edits the videos</p>
+            <p>Created the website, manages outreach and edits the videos</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Alexander</h1>
             <h4>Electrical</h4>
-            <p>Created the PCB and wiring diagrams for the CanSat and assembled the CanSat</p>
+            <p>Created the PCB and wiring diagrams for the CanSat and assembled the electronics</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Neil</h1>

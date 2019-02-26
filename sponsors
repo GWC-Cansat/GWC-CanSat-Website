@@ -132,22 +132,22 @@
     <div class="gallery">
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">George Watson's College</h1>
-            <h4><img src="./images/gwclogo.jpg" alt="George Watson's College Logo" width="320px" /></h4>
+            <h4><a href="https://www.gwc.org.uk/" target="_blank"><img src="./images/gwclogo.jpg" alt="George Watson's College Logo" width="320px" /></a></h4>
             <p>George Watson's College is a co-educational, independent school situated in the Merchiston area of Edinburgh, Scotland. As our team's origin school and base of operations, George Watson's College has provided us with valuable advice, equipment, resources and other help.</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">TeamGantt</h1>
-            <h4><img src="./images/teamganttlogo.png" alt="TeamGantt Logo" width="320px" /></h4>
+            <h4><a href="https://www.teamgantt.com/" target="_blank"><img src="./images/teamganttlogo.png" alt="TeamGantt Logo" width="320px" /></a></h4>
             <p>TeamGantt are industry leading team and project management service, providing an elegant, streamlined and efficient solution to task tracking and assignment. Teamgantt are an essential tool for any teams looking to maximise their efficiency. They have kindly provided us with licensing for their service, allowing us to efficiently organise our team goals.</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Tecbridge Circuits</h1>
-            <h4><img src="./images/tecbridgecircuitslogo.jpg" alt="Tecbridge Circuits Logo" width="320px" /></h4>
+            <h4><a href="http://www.tecbridgecircuits.co.uk/" target="_blank"><img src="./images/tecbridgecircuitslogo.jpg" alt="Tecbridge Circuits Logo" width="320px" /></a></h4>
             <p>Tecbridge Circuits is a high quality supplier of small to medium orders of volume orders of PCBs. They have kindly offered to assemble our PCBs free of charge.</p>
         </div>
         <div class="thumbnail thumbnail-center">
             <h1 class="stats">Yostar PCB</h1>
-            <h4><img src="./images/yostarpcblogo.png" alt="Tecbridge Circuits Logo" width="320px" /></h4>
+            <h4><a href="http://www.yostar-pcb.com/" target="_blank"><img src="./images/yostarpcblogo.png" alt="Tecbridge Circuits Logo" width="320px" /></a></h4>
             <p>Yostar PCB is a printed circuit board factory, founded in 2011, with a facility based in Shenzhen, China. Their goals are to explore the global PCB market and have offered to assemble our PCBs free of charge.</p>
         </div>
     </div>

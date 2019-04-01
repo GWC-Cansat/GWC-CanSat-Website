@@ -31,7 +31,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="description" content="CanSat Team representing George Watson's College in the 2019 UK competition" />
     <meta name="keywords" content="cansat, gwc, esa, electronics, science, technology, physics, engineering, teamgantt, tecbridge circuits, yostar-pcb" />
-    <meta name="author" content="Abhijith Ganesan" />
+    <meta name="author" content="GWC CanSat Team" />
     <meta name="web_author" content="GWC CanSat" />
     <meta name="contact" content="cansatgwc@gmail.com" />
     <meta name="copyright" content="GWC CanSat" />
@@ -54,7 +54,7 @@
     <meta name="twitter:description" content="CanSat Team representing George Watson's College in the 2019 UK competition." />
     <meta name="twitter:image" content="https://gwccansat.com/images/backgroundWithTitle.png" />
     <meta name="twitter:site" content="@gwccansat" />
-    <meta name="twitter:creator" content="@AbhijithGanesan" />
+    <meta name="twitter:creator" content="@gwccansat" />
     <title>GWC CanSat - Team</title>
     <link href="https://fonts.googleapis.com/css?family=Exo+2%7COpen+Sans:300" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -155,11 +155,6 @@
             <h1 class="stats">Fraser</h1>
             <h4>Electrical, Software</h4>
             <p>Created code for sensors and the basestation GUI</p>
-        </div>
-        <div class="thumbnail thumbnail-center">
-            <h1 class="stats">Nikolai</h1>
-            <h4>Electrical, Mechanical</h4>
-            <p>Solved calculations for the parachute, sensors and positioning the transceiver for maximum performance</p>
         </div>
     </div>
     <section class="footer_banner" id="contact">

@@ -1,11 +1,11 @@
 @charset "UTF-8";
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: #000000;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	background-color: #000;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	font-style: normal;
 	font-weight: 200;
 }
@@ -14,7 +14,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	height: 100%;
-	background-color: #000000;
+	background-color: #000;
 	align-content: center;
 }
 header {
@@ -25,8 +25,8 @@ header {
 }
 .logo {
     font-family: 'Exo 2', sans-serif;
-	color: #FFFFFF;
-	font-weight: bold;
+	color: #FFF;
+	font-weight: 700;
 	text-align: left;
 	width: 140px;
 	float: left;
@@ -46,20 +46,20 @@ nav {
 header nav ul {
 	list-style: none;
 	float: right;
-	padding-left: 0px;
+	padding-left: 0;
 }
 nav ul li {
 	float: left;
-	color: #FFFFFF;
+	color: #FFF;
 	font-size: 14px;
 	text-align: left;
 	margin-right: 25px;
 	letter-spacing: 2px;
-	font-weight: bold;
-	transition: all 0.3s linear;
+	font-weight: 700;
+	transition: all .3s linear;
 }
 ul li a {
-	color: #FFFFFF;
+	color: #FFF;
 	text-decoration: none;
 }
 ul li:hover a {
@@ -71,7 +71,7 @@ ul li:hover a {
     background: #52BAD5;
 }
 .progress-bar{
-    width: 0%;
+    width: 0;
     height: 3px;
     background: #FBA152;
 }
@@ -80,22 +80,22 @@ ul li:hover a {
 	font-size: 64px;
 	color: #FFFB93;
 	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	letter-spacing: 4px;
-	text-shadow: 0px 0px 50px #000000;
+	text-shadow: 0 0 50px #000;
 }
 .main {
-	background-color: #000000;
+	background-color: #000;
 	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 20vmax;
 	padding-bottom: 20vmax;
 }
 .major {
-	background-color: #000000;
+	background-color: #000;
 	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 10vmax;
@@ -104,13 +104,13 @@ ul li:hover a {
 .bold {
 	font-family: 'Exo 2';
 	font-size: 64px;
-	font-weight: bold;
+	font-weight: 700;
 	color: #46DFF8;
 	text-transform: uppercase;
 }
 .tagline {
 	text-align: center;
-	color: #FFFFFF;
+	color: #FFF;
 	margin-top: 4px;
 	font-weight: lighter;
 	text-transform: uppercase;
@@ -118,11 +118,11 @@ ul li:hover a {
 }
 .text_heading {
 	font-family: 'Exo 2';
-	color: #FFFFFF;
+	color: #FFF;
 	text-align: center;
 	padding-top: 10px;
 	letter-spacing: 2px;
-	margin-top: 0px;
+	margin-top: 0;
 }
 .text_column {
 	width: auto;
@@ -131,7 +131,7 @@ ul li:hover a {
 	line-height: 25px;
 	padding-left: 50px;
 	padding-right: 50px;
-	color: #FFFFFF;
+	color: #FFF;
 }
 .about {
 	width: 100%;
@@ -139,21 +139,21 @@ ul li:hover a {
 	padding-bottom: 45px;
 	display: inline-block;
 	background-color: #2FAEE0;
-	margin-top: 0px;
+	margin-top: 0;
 }
 .stats {
-	color: #C0C0C0;
+	color: silver;
 	margin-bottom: 5px;
 }
 .gallery {
 	clear: both;
 	display: inline-block;
 	width: 100%;
-	background-color: #000000;
+	background-color: #000;
 	padding-bottom: 35px;
-	padding-top: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	padding-top: 0;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 .thumbnail {
 	width: 50%;
@@ -172,10 +172,10 @@ ul li:hover a {
 	color: #FBA152;
 }
 .gallery .thumbnail p {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	color: #F0F0F0;
 }
 .gallery h4 a {
@@ -191,39 +191,39 @@ ul li:hover a {
 }
 .parallax {
 	font-family: 'Exo 2';
-	color: #FFFFFF;
+	color: #FFF;
 	text-align: right;
 	padding-right: 100px;
 	padding-top: 50px;
 	letter-spacing: 2px;
-	margin-top: 0px;
+	margin-top: 0;
 }
 .parallax_description {
-	color: #FFFFFF;
+	color: #FFF;
 	text-align: right;
 	padding-right: 100px;
 	width: 40%;
 	float: right;
 	font-weight: lighter;
 	line-height: 23px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 }
 footer {
-	background-color: #000000;
+	background-color: #000;
 	padding-bottom: 35px;
 }
 .footer_header {
 	font-family: 'Exo 2';
-	font-weight: bold;
-	color: #FFFFFF;
+	font-weight: 700;
+	color: #FFF;
 	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	letter-spacing: 4px;
 }
 .footer_column {
@@ -238,8 +238,8 @@ footer .footer_column h3 {
 	text-align: center;
 }
 footer .footer_column p {
-	color: #C0C0C0;
-	background-color: #000000;
+	color: silver;
+	background-color: #000;
 }
 .cards {
 	width: 100%;
@@ -261,7 +261,7 @@ footer .footer_column p {
 }
 .social img {
 	display:inline-block;
-    margin: 30px 30px 0px;
+    margin: 30px 30px 0;
 }
 .button {
 	width: 200px;
@@ -275,13 +275,13 @@ footer .footer_column p {
 	padding-left: 10px;
 	text-align: center;
 	vertical-align: middle;
-	border-radius: 0px;
+	border-radius: 0;
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: 700;
 	letter-spacing: 2px;
-	border: 3px solid #FFFFFF;
-	color: #FFFFFF;
-	transition: all 0.3s linear;
+	border: 3px solid #FFF;
+	color: #FFF;
+	transition: all .3s linear;
 }
 .button:hover {
 	background-color: #FEFEFE;
@@ -292,8 +292,8 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #000000;
-	color: #FFFFFF;
+	background-color: #000;
+	color: #FFF;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
@@ -303,7 +303,7 @@ footer .footer_column p {
 	background-color: #FF69B4;
 	padding-top: 60px;
 	padding-bottom: 60px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 footer {
 	display: inline-block;
@@ -317,21 +317,21 @@ footer {
 	width: auto;
     text-align: left;
     margin-top: 13px;
-    margin-right: 0px;
+    margin-right: 0;
     margin-bottom: 13px;
-    margin-left: 0px;
+    margin-left: 0;
     padding-left: 20px;
 }
 .menuIcon {
     display: block;
     font-family: 'Exo 2', sans-serif;
-    color: #FFFFFF;
-    font-weight: bold;
+    color: #FFF;
+    font-weight: 700;
     text-align: right;
     width: auto;
     float: right;
     margin-top: 13px;
-    margin-left: 0px;
+    margin-left: 0;
 	letter-spacing: 4px;
 }
 .fa {
@@ -341,29 +341,29 @@ footer {
 	display: inline-block;
 }
 .container header nav {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	width: 100%;
 	display: none;
 	overflow: auto;
 	background: #52BAD5;
 }
 nav ul li {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	width: 100%;
 	text-align: center;
 }
 .text_column {
 	width: auto;
 	text-align: justify;
-	padding-top: 0px;
+	padding-top: 0;
 	padding-right: 25px;
-	padding-bottom: 0px;
+	padding-bottom: 0;
 	padding-left: 25px;
 }
 .thumbnail {
@@ -375,33 +375,33 @@ iframe {
 }
 .footer_column {
 	width: 100%;
-	margin-top: 0px;
+	margin-top: 0;
 }
 .gallery .thumbnail h4 img {
 	width: 240px;
 }
 .parallax {
 	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	padding-top: 50px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
 	width: 100%;
 	font-size: 18px;
 }
 .parallax_description {
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
 	width: 90%;
 	margin-top: 25px;
-	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-right: 0;
+	margin-bottom: 0;
 	margin-left: 12px;
 	float: none;
 	text-align: center;
@@ -427,45 +427,45 @@ iframe {
 	width: auto;
 	text-align: left;
 	margin-top: 13px;
-	margin-right: 0px;
+	margin-right: 0;
 	margin-bottom: 13px;
-	margin-left: 0px;
+	margin-left: 0;
 	padding-left: 20px;
 }
 .menuIcon {
 	display: block;
 	font-family: 'Exo 2', sans-serif;
-    color: #FFFFFF;
-    font-weight: bold;
+    color: #FFF;
+    font-weight: 700;
     text-align: right;
     width: auto;
     float: right;
     margin-top: 13px;
-    margin-left: 0px;
+    margin-left: 0;
     letter-spacing: 4px;
 }
 .fa {
 	padding-right: 20px;
 }
 .container header nav {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	width: 100%;
 	overflow: auto;
 	display: none;
 	background: #52BAD5;
 }
 header nav ul {
-	padding: 0px;
+	padding: 0;
 	float: none;
 }
 nav ul li {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	width: 100%;
 	text-align: center;
 	padding-top: 8px;
@@ -481,40 +481,40 @@ iframe {
 .text_column {
 	width: 100%;
 	text-align: center;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
 }
 .footer_column {
 	width: 100%;
-	margin-top: 0px;
+	margin-top: 0;
 }
 .gallery .thumbnail h4 img {
 	width: 240px;
 }
 .parallax {
 	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	padding-top: 50px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
 	width: 100%;
 	font-size: 1.5em;
 }
 .parallax_description {
 	padding-top: 50px;
-	padding-right: 0px;
+	padding-right: 0;
 	padding-bottom: 50px;
-	padding-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	padding-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
 	float: none;
 	width: 100%;
 	text-align: center;
@@ -532,22 +532,22 @@ iframe {
 @media (min-width: 768px) and (max-width: 1096px) {
 .text_column {
 	width: 100%;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
 }
 iframe {
 	width: 704px;
 	height: 496px;
 }
 .banner {
-	margin-top: 0px;
-	padding-top: 0px;
+	margin-top: 0;
+	padding-top: 0;
 	height: 440px;
 }
 }

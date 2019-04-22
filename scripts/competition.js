@@ -13,6 +13,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("competition").innerHTML = "The national competition is currently under way!";
+      document.getElementById("competition").innerHTML = "Very close competition this year! Stay tuned for updates on next years competition!";
     }
 }, 1000);

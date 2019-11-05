@@ -1,4 +1,4 @@
-var countDownDate = new Date("Apr 4, 2019 14:00:00").getTime();
+var countDownDate = new Date("Apr 24, 2020 17:00:00").getTime();
 
 var x = setInterval(function() {
     var now = new Date().getTime();
@@ -13,6 +13,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("competition").innerHTML = "Very close competition this year! Stay tuned for updates on next years competition!";
+      document.getElementById("competition").innerHTML = "The national competition is over. Stay tuned for updates about our team!";
     }
 }, 1000);

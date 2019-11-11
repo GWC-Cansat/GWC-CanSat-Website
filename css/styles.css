@@ -61,6 +61,7 @@ nav ul li {
 ul li a {
 	color: #FFF;
 	text-decoration: none;
+	font-family: 'Exo 2';
 }
 ul li:hover a {
 	color: #FBA152;
@@ -89,14 +90,14 @@ ul li:hover a {
 }
 .main {
 	background-color: #000;
-	background: url(../images/background.jpg) no-repeat center center scroll;
+	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 20vmax;
 	padding-bottom: 20vmax;
 }
 .major {
 	background-color: #000;
-	background: url(../images/background.jpg) no-repeat center center scroll;
+	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 10vmax;
 	padding-bottom: 8vmax;
@@ -144,6 +145,8 @@ ul li:hover a {
 .stats {
 	color: silver;
 	margin-bottom: 5px;
+	font-weight: normal;
+	font-family: 'Exo 2';
 }
 .gallery {
 	clear: both;

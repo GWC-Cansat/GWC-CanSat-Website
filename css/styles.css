@@ -24,7 +24,7 @@ header {
 	position: fixed;
 }
 .logo {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo 2';
 	color: #FFF;
 	font-weight: 700;
 	text-align: left;
@@ -61,6 +61,7 @@ nav ul li {
 ul li a {
 	color: #FFF;
 	text-decoration: none;
+	font-family: 'Exo 2';
 }
 ul li:hover a {
 	color: #FBA152;
@@ -76,7 +77,7 @@ ul li:hover a {
     background: #FBA152;
 }
 .main_header {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	font-size: 64px;
 	color: #FFFB93;
 	text-align: center;
@@ -89,20 +90,20 @@ ul li:hover a {
 }
 .main {
 	background-color: #000;
-	background: url(../images/background.jpg) no-repeat center center scroll;
+	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 20vmax;
 	padding-bottom: 20vmax;
 }
 .major {
 	background-color: #000;
-	background: url(../images/background.jpg) no-repeat center center scroll;
+	background: url(../images/background.png) no-repeat center center scroll;
     background-size: cover;
 	padding-top: 10vmax;
 	padding-bottom: 8vmax;
 }
 .bold {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	font-size: 64px;
 	font-weight: 700;
 	color: #46DFF8;
@@ -117,7 +118,7 @@ ul li:hover a {
 	letter-spacing: 1px;
 }
 .text_heading {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	color: #FFF;
 	text-align: center;
 	padding-top: 10px;
@@ -144,6 +145,8 @@ ul li:hover a {
 .stats {
 	color: silver;
 	margin-bottom: 5px;
+	font-weight: normal;
+	font-family: 'Exo 2';
 }
 .gallery {
 	clear: both;
@@ -164,7 +167,7 @@ ul li:hover a {
 	width: 100%;
 }
 .gallery .thumbnail h4 {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	margin-top: 5px;
 	margin-right: 5px;
 	margin-bottom: 5px;
@@ -190,7 +193,7 @@ ul li:hover a {
 	height: 350px;
 }
 .parallax {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	color: #FFF;
 	text-align: right;
 	padding-right: 100px;
@@ -216,7 +219,7 @@ footer {
 	padding-bottom: 35px;
 }
 .footer_header {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	font-weight: 700;
 	color: #FFF;
 	text-align: center;
@@ -233,7 +236,7 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2';
 	color: #B3B3B3;
 	text-align: center;
 }
@@ -324,7 +327,7 @@ footer {
 }
 .menuIcon {
     display: block;
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo 2';
     color: #FFF;
     font-weight: 700;
     text-align: right;
